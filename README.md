@@ -1,6 +1,6 @@
 # Todos
 
-**TODO: Add description**
+**TODO: Simple todo app to start learning functional programming with elixir**
 
 ## Installation
 
